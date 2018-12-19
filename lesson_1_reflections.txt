@@ -18,3 +18,5 @@ Now that you have your workspace set up, what do you want to try using Git for?
 i want to organize my study projects
 What happens when you initialize a repository? Why do you need to do it?
 Git creates hidden folder with support files
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Its intermediate place 
